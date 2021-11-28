@@ -1,0 +1,6 @@
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin\bin\Debug\jetabroad.perlin.dll
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin\bin\Debug\jetabroad.perlin.pdb
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin\obj\Debug\jetabroad.perlin.csproj.CoreCompileInputs.cache
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin\obj\Debug\jetabroad.perlin.dll
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin\obj\Debug\jetabroad.perlin.pdb
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin\obj\Debug\jetabroad.perlin.csproj.AssemblyReference.cache

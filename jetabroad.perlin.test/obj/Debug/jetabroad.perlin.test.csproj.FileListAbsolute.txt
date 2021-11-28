@@ -1,0 +1,16 @@
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\bin\Debug\jetabroad.perlin.test.dll
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\bin\Debug\jetabroad.perlin.test.pdb
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\bin\Debug\jetabroad.perlin.dll
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\bin\Debug\jetabroad.perlin.pdb
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\obj\Debug\jetabroad.perlin.test.csproj.AssemblyReference.cache
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\obj\Debug\jetabroad.perlin.test.csproj.CoreCompileInputs.cache
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\obj\Debug\jetabroad.perlin.test.csproj.CopyComplete
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\obj\Debug\jetabroad.perlin.test.dll
+C:\Users\nattl\source\repos\jetabroad\jetabroad.perlin.test\obj\Debug\jetabroad.perlin.test.pdb

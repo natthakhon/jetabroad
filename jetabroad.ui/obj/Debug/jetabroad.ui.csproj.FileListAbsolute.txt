@@ -1,0 +1,13 @@
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\bin\Debug\jetabroad.ui.exe.config
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\bin\Debug\jetabroad.ui.exe
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\bin\Debug\jetabroad.ui.pdb
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\obj\Debug\jetabroad.ui.csproj.AssemblyReference.cache
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\obj\Debug\jetabroad.ui.Properties.Resources.resources
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\obj\Debug\jetabroad.ui.csproj.GenerateResource.cache
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\obj\Debug\jetabroad.ui.csproj.CoreCompileInputs.cache
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\obj\Debug\jetabroad.ui.exe
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\obj\Debug\jetabroad.ui.pdb
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\bin\Debug\jetabroad.perlin.dll
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\bin\Debug\jetabroad.perlin.pdb
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\obj\Debug\jetabroad.ui.Form1.resources
+C:\Users\nattl\source\repos\jetabroad\jetabroad.ui\obj\Debug\jetabroad.ui.csproj.CopyComplete
